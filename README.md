@@ -1,4 +1,6 @@
-## Hi there 👋
+# Yo!
+You have found your way to my page!
+Welcome, I am a physicist who programs!
 
 <!--
 **Lord-LightSpeed/Lord-LightSpeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
